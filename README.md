@@ -15,7 +15,7 @@
 
 ## Live Demo
 
-### [LIVE DEMO LINK](https://aimemalaika.github.io/bootstrap-portofolio)
+### [Live Link](https://aimemalaika.github.io/Microverse-Project-Review-Two/)
 
 
 ## Getting Started
